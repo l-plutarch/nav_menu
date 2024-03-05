@@ -33,3 +33,9 @@
     color: #999999;
     padding: 10px 20px;
 }
+.nav li a:hover {
+    background-color: #d4a13d;
+    color: white;
+    border-radius:5px;
+    transition:500ms;
+}
